@@ -15,9 +15,8 @@
 - [x] 9. Составить отчет и отправить ссылку личным сообщением в **Slack**
 
 ## Tutorial
-
-```sh
 Проверка окружения для разработки
+```sh
 
 $ cmake --version #check cmake version
 cmake version 3.7.2
